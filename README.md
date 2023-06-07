@@ -14,6 +14,7 @@ I only chose to include certain fields, including:
 'cwes'
 'description'
 'summary'
+'cve_id'
 
 
 Personalize the script for your own need, by chaning the jq filter in the 'ALERTS' variable.
